@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vũ Hoàng Lâm 👋<br><br>I am a Software Engineering student at FPT University, focusing on Mobile and Backend development (Flutter & Java).<br><br>Beyond coding, I am dedicated to improving my Korean language skills and exploring Linux environments.<br><br>## 🛠 Tech Stack<br>- **Languages & Frameworks:** Java (Spring Boot), Dart (Flutter)<br>- **Databases:** MySQL, PostgreSQL, SQL Server<br>- **Operating System:** Linux<br>
+Hi, I'm Lam 👋<br><br>I am a Software Engineering student at FPT University, focusing on Mobile and Backend development (Flutter & Java).<br><br>Beyond coding, I am dedicated to improving my Korean language skills and exploring Linux environments.<br><br>## 🛠 Tech Stack<br>- **Languages & Frameworks:** Java (Spring Boot), Dart (Flutter)<br>- **Databases:** MySQL, PostgreSQL, SQL Server<br>- **Operating System:** Linux<br>
 
 
 ## 🌐 Socials:
